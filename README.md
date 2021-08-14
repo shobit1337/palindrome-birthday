@@ -4,7 +4,7 @@ This app checks your birthdate in 4 formats yyyy-mm-dd, dd-mm-yyyy, mm-dd-yy, m-
 
 🔗Live Link🔗 [Palindrome Birthday App](https://palindrome-birthday-webapp.netlify.app/)
 
-> Note: This project was build by me from scratch. It is markThirteen project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markThirteen project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
